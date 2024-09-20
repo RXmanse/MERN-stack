@@ -1,0 +1,15 @@
+.news-heading {
+  text-align: center;
+}
+
+.form-img-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+
+.form-img {
+  height: 250px;
+}
+
